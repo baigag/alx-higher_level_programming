@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+# Author: Steelfreak Kinen Key Samson
 """Module to find the max integer in a list
 """
 
