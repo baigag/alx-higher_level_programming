@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+# Author: Steelfreak Kinen Key Samson
 print_square = __import__('4-print_square').print_square
 
 print_square(4)

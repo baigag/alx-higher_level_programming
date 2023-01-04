@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+# Author: Steelfreak Kinen Key Samson
 """Unittests for max_integer([..])."""
 
 import unittest
@@ -56,6 +57,7 @@ class TestMaxInteger(unittest.TestCase):
     def test_empty_string(self):
         """Test an empty string."""
         self.assertEqual(max_integer(""), None)
+
 
 if __name__ == '__main__':
     unittest.main()

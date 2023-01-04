@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+# Author: Steelfreak kinen Key Samson
 matrix_divided = __import__('2-matrix_divided').matrix_divided
 
 matrix = [
